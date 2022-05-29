@@ -34,8 +34,8 @@ Mobile view
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/Defdave/project-tracking-intro-component-master)
+- Live Site URL: (https://defdave.github.io/project-tracking-intro-component-master/)
 
 
 ### Built with
